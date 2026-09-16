@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Este repositorio está archivado.** Su contenido vive ahora en [`core-web/`](https://github.com/ProjectEllysia/AcheronCore/tree/main/core-web) del repositorio [AcheronCore](https://github.com/ProjectEllysia/AcheronCore), junto al otro motor, el catálogo y los vectores de interoperabilidad, con la historia de git completa. El paquete `@projectellysia/acheron-core-web` se sigue publicando con el mismo nombre desde allí, a partir de la 2.2.0. Los tags `v2.0.0` y `v2.1.0` se conservan aquí.
+
 # Acheron Core Web
 
 El motor criptográfico de la bóveda de Acheron, en **TypeScript**.
